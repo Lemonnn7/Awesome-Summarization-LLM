@@ -24,7 +24,7 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
 - (*NAACL'21*) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [[paper](https://aclanthology.org/2021.naacl-main.278/)][[code](https://github.com/google-research-datasets/KELM-corpus)]
 - (*ACL'22*) SummScreen: A Dataset for Abstractive Screenplay Summarization[[paper](https://aclanthology.org/2022.acl-long.589/)][[code](https://github.com/mingdachen/SummScreen)]
 - (*ACL'23*) MeetingBank: A Benchmark Dataset for Meeting Summarization[[paper](https://aclanthology.org/2023.acl-long.906/)][[code](https://meetingbank.github.io/dataset/)]
-- (*ACL'24*)LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding[[paper](https://arxiv.org/abs/2308.14508)][[code](https://github.com/THUDM/LongBench)]
+- (*ACL'24*) LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding[[paper](https://arxiv.org/abs/2308.14508)][[code](https://github.com/THUDM/LongBench)]
 - (*EMNLP'22*) BookSum: A Collection of Datasets for Long-form Narrative Summarization[[paper](https://aclanthology.org/2022.findings-emnlp.488/)][[code](https://github.com/salesforce/booksum)]
 - (*NAACL'24*) Select and Summarize: Scene Saliency for Movie Script Summarization[[paper](https://aclanthology.org/2024.findings-naacl.218/)][[code](https://github.com/saxenarohit/select_summ)]
 - (*LREC'24*) MDS: A Fine-Grained Dataset for Multi-Modal Dialogue Summarization[[paper](https://aclanthology.org/2024.lrec-main.970/)][[code](https://github.com/R00kkie/MDS)]
@@ -44,7 +44,7 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
   
 ## evaluate
 - (*ICLR'2024*) BooookScore: A systematic exploration of book-length summarization in the era of LLMs[[paper](https://arxiv.org/abs/2310.00785)][[code](https://github.com/lilakk/BooookScore)]
-- (*arXiv 2024.04*)FABLES: Evaluating faithfulness and content selection in book-length summarization[[paper](https://arxiv.org/abs/2404.01261)][[code](https://github.com/mungg/FABLES)]
+- (*arXiv 2024.04*) FABLES: Evaluating faithfulness and content selection in book-length summarization[[paper](https://arxiv.org/abs/2404.01261)][[code](https://github.com/mungg/FABLES)]
 - (*arXiv 2024.04*) Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works[[code](https://arxiv.org/abs/2404.12726)][[code](https://github.com/Joanna0123/character_profiling)]
 
 ## Applications
@@ -90,4 +90,4 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lemonnn7/Awesome-Summary-LLM&type=Date)](https://star-history.com/#Lemonnn7/Awesome-Summary-LLM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Lemonnn7/Awesome-Summarization-LLM&type=Date)](https://star-history.com/#Lemonnn7/Awesome-Summarization-LLM&Date)
