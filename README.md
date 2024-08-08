@@ -1,13 +1,13 @@
-# Awesome-Summary-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Summarization-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of AWESOME things about **Long-Context Comprehension and Summarisation Based on LLMs**.
+A collection of AWESOME things about **Long-Context Comprehension and Summarization Based on LLMs**.
 
 Large Language Models (LLMs) have made remarkable progress in natural language processing tasks. However, they often struggle to handle large amounts of input context, such as books and movie scripts, which can lead to redundant, inaccurate or incoherent summaries. This repository aims to promote research in this area by providing a collated list of research papers.
 
 
 ## Table of Contents
 
-- [Awesome-Summary-LLM ](#awesome-summary-llm-)
+- [Awesome-Summarization-LLM ](#awesome-summarization-llm-)
   - [Table of Contents](#table-of-contents)
   - [Datasets, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
   - [Method](#method)
