@@ -90,4 +90,4 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Lemonnn7/Awesome-Summarization-LLM&type=Date)](https://star-history.com/#Lemonnn7/Awesome-Summary-LLM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Lemonnn7/Awesome-Summarization-LLM&type=Date)](https://star-history.com/#Lemonnn7/Awesome-Summarization-LLM&Date)
