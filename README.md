@@ -28,9 +28,10 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
 - (*EMNLP'22*) BookSum: A Collection of Datasets for Long-form Narrative Summarization[[paper](https://aclanthology.org/2022.findings-emnlp.488/)][[code](https://github.com/salesforce/booksum)]
 - (*NAACL'24*) Select and Summarize: Scene Saliency for Movie Script Summarization[[paper](https://aclanthology.org/2024.findings-naacl.218/)][[code](https://github.com/saxenarohit/select_summ)]
 - (*LREC'24*) MDS: A Fine-Grained Dataset for Multi-Modal Dialogue Summarization[[paper](https://aclanthology.org/2024.lrec-main.970/)][[code](https://github.com/R00kkie/MDS)]
+- (*arXiv 2024.05*) A Comprehensive Survey on Process-Oriented Automatic Text Summarization with Exploration of LLM-Based Methods[[paper][https://arxiv.org/abs/2403.02901]]
 - (*arXiv 2024.06*) SUMIE: A Synthetic Benchmark for Incremental Entity Summarization [[paper](https://arxiv.org/abs/2406.05079)][[code](https://github.com/google-research-datasets/sumie)]  
 - (*arXiv 2024.06*) A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models[[paper](https://arxiv.org/abs/2406.11289)]
-- (*arXiv 2024.07*) Retrieval-Augmented Generation for Natural Language Processing: A Survey[[paper](https://arxiv.org/abs/2407.13193)][[code]()]
+- (*arXiv 2024.07*) Retrieval-Augmented Generation for Natural Language Processing: A Survey[[paper](https://arxiv.org/abs/2407.13193)]
 
 ## Method
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
