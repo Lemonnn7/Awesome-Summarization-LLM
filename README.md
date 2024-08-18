@@ -25,6 +25,7 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
 - (*ACL'22*) SummScreen: A Dataset for Abstractive Screenplay Summarization[[paper](https://aclanthology.org/2022.acl-long.589/)][[code](https://github.com/mingdachen/SummScreen)]
 - (*ACL'23*) MeetingBank: A Benchmark Dataset for Meeting Summarization[[paper](https://aclanthology.org/2023.acl-long.906/)][[code](https://meetingbank.github.io/dataset/)]
 - (*ACL'24*) LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding[[paper](https://arxiv.org/abs/2308.14508)][[code](https://github.com/THUDM/LongBench)]
+- (*ACL'24*) MovieSum: An Abstractive Summarization Dataset for Movie Screenplays[[paper][https://aclanthology.org/2024.findings-acl.239/]][[code][https://github.com/saxenarohit/MovieSum]]
 - (*EMNLP'22*) BookSum: A Collection of Datasets for Long-form Narrative Summarization[[paper](https://aclanthology.org/2022.findings-emnlp.488/)][[code](https://github.com/salesforce/booksum)]
 - (*NAACL'24*) Select and Summarize: Scene Saliency for Movie Script Summarization[[paper](https://aclanthology.org/2024.findings-naacl.218/)][[code](https://github.com/saxenarohit/select_summ)]
 - (*LREC'24*) MDS: A Fine-Grained Dataset for Multi-Modal Dialogue Summarization[[paper](https://aclanthology.org/2024.lrec-main.970/)][[code](https://github.com/R00kkie/MDS)]
