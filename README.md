@@ -37,12 +37,14 @@ Large Language Models (LLMs) have made remarkable progress in natural language p
 ## Method
 - (*EMNLP'23*) StructGPT: A General Framework for Large Language Model to Reason over Structured Data [[paper](https://arxiv.org/abs/2305.09645)][[code](https://github.com/RUCAIBox/StructGPT)]
 - (*NAACL'24*) Select and Summarize: Scene Saliency for Movie Script Summarization[[paper](https://aclanthology.org/2024.findings-naacl.218/)][[code](https://github.com/saxenarohit/select_summ)]
+- (*NAACL'24*) RST-LoRA: A Discourse-Aware Low-Rank Adaptation for Long Document Abstractive Summarization[[paper][https://aclanthology.org/2024.naacl-long.121/]]
 - (*ACL'24*) On Context Utilization in Summarization with Large Language Models[[paper](https://arxiv.org/abs/2310.10570)][[code](https://github.com/ntunlp/MiddleSum)]
 - (*AAAI'24*) Graph of Thoughts: Solving Elaborate Problems with Large Language Models [[paper](https://arxiv.org/abs/2308.09687)][[code](https://github.com/spcl/graph-of-thoughts)]
 - (*arXiv 2024.01*) GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models[[paper](https://arxiv.org/abs/2406.14550)][[code]()]
 - (*arXiv 2024.03*) Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers[[paper](https://arxiv.org/abs/2403.01061)][[code](https://github.com/melaniesubbiah/reading-subtext)]
 - (*arXiv 2024.06*) Chain of Agents: Large Language Models Collaborating on Long-Context Tasks[[paper](https://arxiv.org/abs/2406.02818)][[code]()]
 - (*arXiv 2024.07*) Enhancing Incremental Summarization with Structured Representations[[paper](https://arxiv.org/abs/2407.15021v1)][[code]()]
+- 
   
 ## evaluate
 - (*ICLR'2024*) BooookScore: A systematic exploration of book-length summarization in the era of LLMs[[paper](https://arxiv.org/abs/2310.00785)][[code](https://github.com/lilakk/BooookScore)]
